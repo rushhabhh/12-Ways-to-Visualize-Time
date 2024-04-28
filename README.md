@@ -26,6 +26,7 @@ This project demonstrates 12 creative ways to visualize time series data using T
 - Difference from Previous
 - Calendar Heatmap
 - Butterfly Chart
+
 Dashboard Link: https://public.tableau.com/app/profile/rushabh.vora/viz/12CreativeWaystoVisualizetimeinTableau/12Ways-Dashboard
 
 ## How to Use
