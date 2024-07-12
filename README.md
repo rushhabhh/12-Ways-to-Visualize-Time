@@ -7,6 +7,7 @@ This project demonstrates 12 creative ways to visualize time series data using T
 - **Dashboard Image**: An overview image of the completed Tableau dashboard.
 - **Tableau Workbook**: The main Tableau workbook containing the dashboard and underlying data visualizations.
 - **Data Source**: Superstore Dataset.
+- **Medium Article**: [12 Ways to Visualize Time in Tableau](https://medium.com/@rvora3/12-creative-ways-to-visualize-time-in-tableau-42536c51e7e6)
 
 ## Getting Started
 1. Clone this repository to your local machine.
